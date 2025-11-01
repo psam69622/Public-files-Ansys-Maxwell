@@ -1,0 +1,36 @@
+Volume = pi*r^2*h*2+(LxW*h)
+       =(3.14*3.8*3.8*1.57*2)+(36*12.2*3) =1460mm3
+ =1460mm^3
+
+Area of each leg = pi*r^2 = pi*(7.6/2)^2 =45.365 mm2
+
+
+=================
+V = NAdB/dt
+
+V=NA(2Bmax)/(t/2)
+
+V = 4NABm/T
+
+Bmax =VT/(4NA)
+
+V across primary Tx = -48V to +48V 
+V1 across 1/2 primary = -24V to + 24V
+V2 across other 1/2 primary = -24V to +24V
+
+Bmax = (24*(10^-6)*10^4)/(4*2*0.45) = 66mT each leg
+
+300kW/m3 for 66mT
+
+1 leg  = 300000*1.46*10^-6 =0.438W
+2 leg = 0.438W
+
+0.876W (total core)
+
+
+1 leg  = 30000*1.46*10^-6 =43.8 mW
+2 leg = 43.8 mW
+
+4:1 turns ratio
+
+2 left 2 right
